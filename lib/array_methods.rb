@@ -26,3 +26,6 @@ def find_min_value(array)
   end
   return max  # Add your solution here
 end
+
+array = [1,2,5,3,4]
+p find_max_value(array)
